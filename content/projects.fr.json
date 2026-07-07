@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "orva",
+    "name": "Orva",
+    "status": "live",
+    "featured": true,
+    "url": "https://orva.video",
+    "tagline": "De l'idée à la pub cinématique, en IA.",
+    "badges": ["Pipeline IA complet", "Paiement", "Affiliation"],
+    "title": "Transformer une idée en pub cinématique, sans tournage ni budget.",
+    "media": {
+      "kind": "video",
+      "video": "/media/orva-f1.mp4",
+      "poster": "/media/orva-f1-poster.jpg",
+      "aspect": "portrait",
+      "caption": "Une publicité générée de bout en bout par Orva."
+    },
+    "stack": ["Next.js", "TypeScript", "Supabase", "Stripe", "Cloudflare", "Kling", "ElevenLabs", "Claude"],
+    "problem": "Une vidéo publicitaire pro coûte cher et prend des semaines. Les petites marques n'y ont pas accès. Elles se rabattent sur des visuels plats pendant que les gros inondent les réseaux de contenu léché.",
+    "delivered": "Un SaaS complet qui transforme une simple idée en vidéo de qualité studio, en quelques minutes. L'utilisateur décrit, choisit un style, récupère un film. Côté marque, une offre Studio produit des pubs sur mesure.",
+    "running": "Produit en ligne, de bout en bout : génération vidéo, paiement, comptes, programme d'affiliation. Lancé récemment. Je construis maintenant la distribution et les premiers partenariats.",
+    "under": "Un pipeline complet : script → image → vidéo → voix → musique → montage → sous-titres, avec contrôle qualité automatique.",
+    "role": "Conception, architecture, direction du build de A à Z. 164 fichiers, 38 routes API, sous un process d'ingénierie strict que j'ai défini."
+  },
+  {
+    "slug": "universal-it",
+    "name": "Universal IT",
+    "status": "live",
+    "featured": true,
+    "url": "https://universal-it.fr",
+    "tagline": "J'ai vu un marché, construit l'outil, fondé la boîte.",
+    "badges": ["Fondateur", "SASU", "Devis instantané"],
+    "title": "J'ai vu un marché, j'ai construit l'outil, j'ai fondé la boîte.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/universal-it-simulator.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/universal-it-simulator.jpg", "caption": "Le simulateur génère un devis chiffré en direct pendant le rendez-vous." },
+        { "src": "/media/universal-it-score.jpg", "caption": "Score de gestion des coûts et CAPEX évité, calculés automatiquement." },
+        { "src": "/media/universal-it-projection.jpg", "caption": "Projection des économies sur 5 ans, prête à présenter au client." },
+        { "src": "/media/universal-it-home.jpg", "caption": "Le site public de l'offre de maintenance." }
+      ]
+    },
+    "stack": ["Next.js", "TypeScript", "Stripe", "Catalogue de prix"],
+    "problem": "Les contrats de maintenance serveurs des constructeurs (Dell, HPE) grimpent de 8 à 20 % par an. Beaucoup d'entreprises paient le prix fort sur du matériel encore parfaitement fiable, sans savoir qu'une alternative existe.",
+    "delivered": "Une offre de maintenance tierce jusqu'à 70 % moins chère, à SLA équivalent. Et pour la vendre, un simulateur qui compare les coûts et génère un devis sur mesure en direct, pendant le rendez-vous client, au lieu de deux heures de travail après coup.",
+    "running": "La société est immatriculée, le site est en ligne, l'outil de devis fonctionne et me sert à chaque rendez-vous. C'est le projet où je porte tout : le diagnostic du marché, le produit, et la vente.",
+    "under": "Front et back sur mesure, catalogue de prix intégré, abonnement branché sur Stripe. Volontairement simple : ici la valeur n'est pas dans la technique, elle est dans la vitesse de réponse au client.",
+    "role": "Fondateur. Du dépôt au greffe au premier devis, seul."
+  },
+  {
+    "slug": "halluguard",
+    "name": "HalluGuard",
+    "status": "built",
+    "featured": true,
+    "url": null,
+    "tagline": "Ce que les IA inventent sur votre marque, sous surveillance.",
+    "badges": ["Multi-tenant", "6 LLM surveillés", "Scans quotidiens"],
+    "title": "Ce que les IA inventent sur votre marque, sous surveillance.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/halluguard-home.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/halluguard-home.jpg", "caption": "La promesse : arrêter les fausses informations que les IA propagent sur votre marque." },
+        { "src": "/media/halluguard-features.jpg", "caption": "Détection en temps réel, score de fiabilité par LLM, alertes priorisées." },
+        { "src": "/media/halluguard-pricing.jpg", "caption": "Offres pensées du solo à l'agence, paiement branché." }
+      ]
+    },
+    "stack": ["Next.js 16", "Tailwind", "Supabase", "Claude API", "Firecrawl", "Stripe", "Resend"],
+    "problem": "Vos clients ne vous cherchent plus seulement sur Google. Ils demandent à ChatGPT, Claude, Gemini, Perplexity. Et ces IA affirment parfois des choses fausses sur votre marque, avec un aplomb total. Vous ne le voyez pas, eux si.",
+    "delivered": "Un outil qui surveille ce que les grands modèles disent de votre marque, détecte les inexactitudes et les hallucinations, note la fiabilité de chaque IA, et génère un plan d'action pour corriger les sources.",
+    "running": "SaaS entièrement construit, prêt à déployer. Auth, tableaux de bord multi-marques, facturation, scans automatisés quotidiens.",
+    "under": "Architecture multi-tenant de niveau production : Supabase avec RLS, moteur de scoring multi-modèles, crawling via Firecrawl. Un produit qui répond à une catégorie neuve : le référencement à l'ère des IA génératives.",
+    "role": "Conception et build de bout en bout. 107 fichiers."
+  },
+  {
+    "slug": "airfryerlab",
+    "name": "Airfryerlab",
+    "status": "live",
+    "featured": false,
+    "url": "https://airfryerlab.fr",
+    "tagline": "Monté et hissé en première position Google, en SEO 100 % organique.",
+    "badges": ["#1 Google", "SEO 100% organique", "Sans pub"],
+    "title": "Un e-commerce en première position Google, sans un euro de pub.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/airfryerlab-home.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/airfryerlab-home.jpg", "caption": "La boutique, en première position Google sur son marché." },
+        { "src": "/media/airfryerlab-shop.jpg", "caption": "Une sélection de produits, prix et disponibilités à jour." },
+        { "src": "/media/airfryerlab-article.jpg", "caption": "L'article « Meilleur air fryer 2026 », moteur du trafic organique." }
+      ]
+    },
+    "stack": ["Shopify", "SEO", "Contenu éditorial"],
+    "problem": "Sur un marché saturé, sortir du lot sans budget publicitaire relève de l'exploit.",
+    "delivered": "Un e-commerce spécialisé, adossé à un contenu éditorial dense, hissé en première position Google sur « meilleure air fryer 2026 », en SEO 100 % organique.",
+    "running": "En ligne, trafic organique en croissance chaque mois. La preuve que je ne sais pas seulement construire, je sais aussi amener le trafic.",
+    "under": "Stratégie de contenu, structure SEO, fiches produits optimisées.",
+    "role": "Seul aux commandes, de la boutique au référencement."
+  },
+  {
+    "slug": "facture-pro",
+    "name": "Facture Pro",
+    "status": "built",
+    "featured": false,
+    "url": null,
+    "tagline": "Facturation électronique, alignée sur la réglementation 2026.",
+    "badges": ["Conforme réforme 2026", "Prêt à brancher"],
+    "title": "Une plateforme de facturation électronique prête pour la réforme 2026.",
+    "media": { "kind": null },
+    "stack": ["Front et back", "Facturation électronique"],
+    "problem": "La facturation électronique devient obligatoire en France. Beaucoup d'acteurs ne seront pas prêts.",
+    "delivered": "Une plateforme de facturation alignée sur la réglementation française qui arrive en 2026. Construite de bout en bout, prête à brancher.",
+    "running": "Construite et documentée. Un pari sur le bon timing réglementaire.",
+    "under": "Site vitrine, application de facturation, documentation de déploiement.",
+    "role": "Conception et build."
+  },
+  {
+    "slug": "stellar",
+    "name": "STELLAR",
+    "status": "wip",
+    "featured": false,
+    "url": null,
+    "tagline": "Un système d'agents qui prospecte seul, jusqu'au rendez-vous.",
+    "badges": ["Multi-agents", "Autonome", "Réutilisable par niche"],
+    "title": "Un système d'agents de prospection autonome.",
+    "media": { "kind": null },
+    "stack": ["Architecture multi-agents", "Scraper", "Qualification", "Outreach"],
+    "problem": "La prospection manuelle mange des journées entières, pour un résultat en dents de scie.",
+    "delivered": "Un système multi-agents piloté par l'IA qui identifie des prospects, engage la conversation sur plusieurs canaux, et va jusqu'à la prise de rendez-vous. Conçu pour être réutilisable d'une niche à l'autre.",
+    "running": "En construction. Mon terrain d'exploration de l'automatisation agentique.",
+    "under": "Architecture monorepo séparée en trois : interface, backend, et couche d'agents autonomes.",
+    "role": "Conception de l'architecture et direction du build."
+  }
+]

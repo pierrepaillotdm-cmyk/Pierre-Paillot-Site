@@ -1,0 +1,91 @@
+{
+  "name": "Pierre Paillot",
+  "role": "AI Implementation Consultant",
+  "domain": "pierrepaillot.com",
+  "available": true,
+  "availabilityLine": "Available · Freelance (3 to 6 months) and full-time · Remote from Casablanca",
+  "contact": {
+    "email": "pierre.paillotdm@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/pierre-paillot-de-montabert/",
+    "whatsapp": "https://wa.me/33632059842",
+    "cv": "/cv-pierre-paillot-en.pdf"
+  },
+  "meta": {
+    "title": "Pierre Paillot · I turn a problem into an AI tool that runs",
+    "description": "AI consultant and builder. I design, build and ship AI tools for companies, from audit to production, until your teams actually use them. Not a slide. A product."
+  },
+  "hero": {
+    "title": "I turn a problem into an AI tool that runs.",
+    "subtitle": "From audit to production, until your teams actually use it.",
+    "punch": "Not a slide. A product.",
+    "ambition": "I'm not looking for a developer job. I'm looking for hard problems, and I build the products that solve them."
+  },
+  "phrase": {
+    "lines": [
+      "A consultant stops at the slide.",
+      "A developer ships a tool nobody uses."
+    ],
+    "punch": "I do all three: I diagnose, I build, I drive adoption."
+  },
+  "scope": {
+    "title": "I don't build one product. I build all the time.",
+    "stats": [
+      { "value": "Since 2021", "label": "building with AI" },
+      { "value": "25+", "label": "products built" },
+      { "value": "9", "label": "SaaS & apps" },
+      { "value": "5", "label": "stores ranked #1 on Google" },
+      { "value": "10+", "label": "sites & landing pages" }
+    ],
+    "note": "100% by directing AI. Up to 5,000 visits per month in organic SEO."
+  },
+  "offer": {
+    "title": "On a mission or in-house, I take a vague need and turn it into a concrete tool.",
+    "items": [
+      { "label": "I audit.", "text": "I understand the business problem before writing a single line. That's my real trade: five years at the interface between leadership and teams." },
+      { "label": "I build.", "text": "I direct AI to produce production software, fast, clean, deployed. SaaS, automations, agents." },
+      { "label": "I drive adoption.", "text": "A tool nobody uses is a dead tool. I make sure your teams actually use it." }
+    ],
+    "footer": "Ideal if you want concrete AI without building a tech team. On a mission or full-time, I embed with your team and I ship. After that, either the tool runs without me, or I stay to build what's next. Your call."
+  },
+  "atelier": {
+    "title": "I don't ask you to trust me. I show you.",
+    "subtitle": "Products I designed and put online. Click, they're alive."
+  },
+  "process": {
+    "steps": ["Observation", "Hypothesis", "Prototype", "Production", "Measurement", "Iteration"],
+    "text": "Observe, build, measure, repeat."
+  },
+  "proof": {
+    "title": "The field, not just the screen.",
+    "lead": "Before AI: five years at the interface between leadership and teams, and fifteen years understanding how people decide. That's what tells me which problem is worth building.",
+    "items": [
+      { "label": "Goalmap", "text": "Transformation and change management consultant for 500+ organizations." },
+      { "label": "Audencia Business School", "text": "completed with organizational sociology (Paris Descartes)." },
+      { "label": "Founder of a company", "text": "from incorporation to the first quote, alone." }
+    ],
+    "quote": {
+      "text": "Pierre is a rare profile, the kind you miss. Committed, professional and deeply human. He fit into the team fast, took on challenges with enthusiasm, delivered his work with success and set the bar high. We wish he had stayed.",
+      "author": "Paul Munos",
+      "role": "Founder of L'Étincelle"
+    }
+  },
+  "soul": {
+    "text": "I've spent fifteen years trying to understand one thing: why people do what they do. Sociology, coaching, three books. It doesn't make me a better coder. It makes me someone who builds tools people actually want to use. And that, no AI does for me."
+  },
+  "contactSection": {
+    "title": "Got a problem in mind? Let's talk.",
+    "text": "Describe your need in two lines. I'll tell you honestly whether I'm the right person, and how I'd approach it."
+  },
+  "ui": {
+    "nav": { "available": "Available", "projects": "Projects", "contact": "Contact", "cv": "CV" },
+    "offerLabel": "What I do for you",
+    "atelierLabel": "The workshop, what's running",
+    "alsoInWorkshop": "Also in the workshop",
+    "proofLabel": "Proof and background",
+    "viewProject": "View project",
+    "cta": { "contact": "Get in touch", "downloadCv": "Download CV", "writeEmail": "Email Pierre" },
+    "detail": { "back": "Back to the workshop", "problem": "The problem", "delivered": "What I shipped", "running": "What's running today", "under": "Under the hood", "role": "My role:", "viewOnlinePrefix": "View", "viewOnlineSuffix": "online" },
+    "status": { "live": "Live", "built": "Built", "wip": "In progress" },
+    "notFound": { "title": "This page doesn't exist.", "home": "Back to home" }
+  }
+}

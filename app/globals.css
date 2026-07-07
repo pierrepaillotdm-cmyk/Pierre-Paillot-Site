@@ -1,0 +1,75 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ---------- Design tokens ---------- */
+/* Dark is the default (also applied via .dark by next-themes) */
+:root,
+.dark {
+  --page: #0c0b0a;
+  --surface: #151310;
+  --elevated: #1b1815;
+  --hair: rgba(255, 255, 255, 0.09);
+  --hair-strong: rgba(255, 255, 255, 0.18);
+  --text-primary: #f4f1ea;
+  --text-secondary: #9a968e;
+  --text-muted: #6a6459;
+  --clay: #d9764f;
+  --clay-hover: #e58a66;
+  --clay-ink: #1a0e08;
+  --live: #5fbf82;
+  --built: #e0a63c;
+  --wip: #6aa6e0;
+}
+
+.light {
+  --page: #faf8f3;
+  --surface: #ffffff;
+  --elevated: #f3efe7;
+  --hair: rgba(26, 24, 21, 0.1);
+  --hair-strong: rgba(26, 24, 21, 0.22);
+  --text-primary: #1a1815;
+  --text-secondary: #5c574e;
+  --text-muted: #8a8578;
+  --clay: #c25f38;
+  --clay-hover: #a94f2c;
+  --clay-ink: #ffffff;
+  --live: #2f9d5b;
+  --built: #b47d14;
+  --wip: #3d7bb5;
+}
+
+* {
+  border-color: var(--hair);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--page);
+  color: var(--text-primary);
+  font-feature-settings: "ss01", "cv01";
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--clay);
+  color: var(--clay-ink);
+}
+
+/* Focus ring for accessibility */
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--clay);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "name": "Pierre Paillot",
+  "role": "AI Implementation Consultant",
+  "domain": "pierrepaillot.com",
+  "available": true,
+  "availabilityLine": "Disponible · Missions freelance (3 à 6 mois) et CDI · Remote depuis Casablanca",
+  "contact": {
+    "email": "pierre.paillotdm@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/pierre-paillot-de-montabert/",
+    "whatsapp": "https://wa.me/33632059842",
+    "cv": "/cv-pierre-paillot.pdf"
+  },
+  "meta": {
+    "title": "Pierre Paillot · Je transforme un problème en outil IA qui tourne",
+    "description": "Consultant et builder IA. Je conçois, je construis et je déploie des outils IA pour les entreprises, de l'audit à la production, jusqu'à l'adoption par vos équipes. Pas un slide. Un produit."
+  },
+  "hero": {
+    "title": "Je transforme un problème en outil IA qui tourne.",
+    "subtitle": "De l'audit à la mise en production, jusqu'à ce que vos équipes l'utilisent vraiment.",
+    "punch": "Pas un slide. Un produit.",
+    "ambition": "Je ne cherche pas un poste de développeur. Je cherche des problèmes difficiles, et je construis les produits qui les résolvent."
+  },
+  "phrase": {
+    "lines": [
+      "Un consultant s'arrête au slide.",
+      "Un développeur livre un outil que personne n'utilise."
+    ],
+    "punch": "Moi, je fais les trois : je diagnostique, je construis, je fais adopter."
+  },
+  "scope": {
+    "title": "Je ne construis pas un produit. J'en construis tout le temps.",
+    "stats": [
+      { "value": "Depuis 2021", "label": "je construis avec l'IA" },
+      { "value": "25+", "label": "produits construits" },
+      { "value": "9", "label": "SaaS & apps" },
+      { "value": "5", "label": "boutiques #1 Google" },
+      { "value": "10+", "label": "sites & landing pages" }
+    ],
+    "note": "100% en dirigeant l'IA. Jusqu'à 5 000 visites par mois en SEO organique."
+  },
+  "offer": {
+    "title": "En mission ou en interne, je prends un besoin flou et j'en fais un outil concret.",
+    "items": [
+      { "label": "J'audite.", "text": "Je comprends le problème métier avant d'écrire la moindre ligne. C'est mon vrai métier : cinq ans à l'interface des directions et des équipes." },
+      { "label": "Je construis.", "text": "Je dirige l'IA pour produire du logiciel de production, vite, propre, déployé. SaaS, automatisations, agents." },
+      { "label": "Je fais adopter.", "text": "Un outil que personne n'utilise est un outil mort. Je m'assure que vos équipes s'en servent." }
+    ],
+    "footer": "Idéal si vous voulez de l'IA concrète sans monter une équipe tech. En mission comme en CDI, je m'intègre à votre équipe et je livre. Ensuite, soit l'outil tourne sans moi, soit je reste pour construire la suite. À vous de voir."
+  },
+  "atelier": {
+    "title": "Je ne vous demande pas de me croire. Je vous montre.",
+    "subtitle": "Des produits que j'ai conçus et mis en ligne. Cliquez, ils sont vivants."
+  },
+  "process": {
+    "steps": ["Observation", "Hypothèse", "Prototype", "Production", "Mesure", "Itération"],
+    "text": "Observer, construire, mesurer, recommencer."
+  },
+  "proof": {
+    "title": "Le terrain, pas juste l'écran.",
+    "lead": "Avant l'IA : cinq ans à l'interface des directions et des équipes, et quinze ans à comprendre comment les gens décident. C'est ce qui me dit quel problème mérite qu'on le construise.",
+    "items": [
+      { "label": "Goalmap", "text": "Consultant transformation et conduite du changement auprès de 500+ organisations." },
+      { "label": "Audencia Business School", "text": "complété par la sociologie des organisations (Paris Descartes)." },
+      { "label": "Fondateur d'une SASU", "text": "de l'immatriculation au premier devis, seul." }
+    ],
+    "quote": {
+      "text": "Pierre est un profil précieux, de ceux qu'on regrette. Impliqué, professionnel et profondément humain. Il s'est très vite intégré à l'équipe, a relevé les défis avec enthousiasme, accompli ses missions avec succès et placé la barre haute. On aurait aimé qu'il reste.",
+      "author": "Paul Munos",
+      "role": "Fondateur de L'Étincelle"
+    }
+  },
+  "soul": {
+    "text": "J'ai passé quinze ans à essayer de comprendre une seule chose : pourquoi les gens font ce qu'ils font. La sociologie, le coaching, trois livres. Ça ne fait pas de moi un meilleur codeur. Ça fait de moi quelqu'un qui construit des outils que les humains ont envie d'utiliser. Et ça, aucune IA ne le fait à ma place."
+  },
+  "contactSection": {
+    "title": "Un problème en tête ? Parlons-en.",
+    "text": "Décrivez-moi votre besoin en deux lignes. Je vous dis franchement si je suis la bonne personne, et comment je m'y prendrais."
+  },
+  "ui": {
+    "nav": { "available": "Disponible", "projects": "Projets", "contact": "Contact", "cv": "CV" },
+    "offerLabel": "Ce que je fais pour vous",
+    "atelierLabel": "L'atelier, ce qui tourne",
+    "alsoInWorkshop": "Aussi dans l'atelier",
+    "proofLabel": "Preuves et parcours",
+    "viewProject": "Voir le projet",
+    "cta": { "contact": "Me contacter", "downloadCv": "Télécharger le CV", "writeEmail": "Écrire à Pierre" },
+    "detail": { "back": "Retour à l'atelier", "problem": "Le problème", "delivered": "Ce que j'ai livré", "running": "Ce qui tourne aujourd'hui", "under": "Sous le capot", "role": "Mon rôle :", "viewOnlinePrefix": "Voir", "viewOnlineSuffix": "en ligne" },
+    "status": { "live": "Live", "built": "Construit", "wip": "En construction" },
+    "notFound": { "title": "Cette page n'existe pas.", "home": "Retour à l'accueil" }
+  }
+}

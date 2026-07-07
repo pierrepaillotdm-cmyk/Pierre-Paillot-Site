@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:orva.video)",
+      "WebFetch(domain:airfryerlab.fr)",
+      "WebFetch(domain:universal-it.fr)"
+    ]
+  }
+}

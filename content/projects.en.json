@@ -1,0 +1,138 @@
+[
+  {
+    "slug": "orva",
+    "name": "Orva",
+    "status": "live",
+    "featured": true,
+    "url": "https://orva.video",
+    "tagline": "From an idea to a cinematic ad, with AI.",
+    "badges": ["Full AI pipeline", "Payments", "Affiliate program"],
+    "title": "Turning an idea into a cinematic ad, with no shoot and no budget.",
+    "media": {
+      "kind": "video",
+      "video": "/media/orva-f1.mp4",
+      "poster": "/media/orva-f1-poster.jpg",
+      "aspect": "portrait",
+      "caption": "An ad generated end to end by Orva."
+    },
+    "stack": ["Next.js", "TypeScript", "Supabase", "Stripe", "Cloudflare", "Kling", "ElevenLabs", "Claude"],
+    "problem": "A professional ad video is expensive and takes weeks. Small brands can't afford it. They fall back on flat visuals while the big players flood social feeds with polished content.",
+    "delivered": "A full SaaS that turns a simple idea into studio-quality video in minutes. The user describes, picks a style, gets a film. On the brand side, a Studio offer produces tailored ads.",
+    "running": "Live product, end to end: video generation, payment, accounts, affiliate program. Recently launched. I'm now building distribution and the first partnerships.",
+    "under": "A full pipeline: script → image → video → voice → music → editing → subtitles, with automated quality control.",
+    "role": "Design, architecture, directing the build from A to Z. 164 files, 38 API routes, under a strict engineering process I defined."
+  },
+  {
+    "slug": "universal-it",
+    "name": "Universal IT",
+    "status": "live",
+    "featured": true,
+    "url": "https://universal-it.fr",
+    "tagline": "I spotted a market, built the tool, founded the company.",
+    "badges": ["Founder", "Registered company", "Instant quotes"],
+    "title": "I spotted a market, I built the tool, I founded the company.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/universal-it-simulator.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/universal-it-simulator.jpg", "caption": "The simulator generates a priced quote live, during the client meeting." },
+        { "src": "/media/universal-it-score.jpg", "caption": "Cost-management score and avoided CAPEX, computed automatically." },
+        { "src": "/media/universal-it-projection.jpg", "caption": "Five-year savings projection, ready to present to the client." },
+        { "src": "/media/universal-it-home.jpg", "caption": "The public site for the maintenance offer." }
+      ]
+    },
+    "stack": ["Next.js", "TypeScript", "Stripe", "Price catalog"],
+    "problem": "Server maintenance contracts from manufacturers (Dell, HPE) rise 8 to 20% per year. Many companies overpay on hardware that's still perfectly reliable, unaware an alternative exists.",
+    "delivered": "A third-party maintenance offer up to 70% cheaper, at equivalent SLA. And to sell it, a simulator that compares costs and generates a tailored quote live, during the client meeting, instead of two hours of work afterwards.",
+    "running": "The company is incorporated, the site is live, the quoting tool works and I use it in every meeting. This is the project where I carry everything: the market diagnosis, the product, and the sale.",
+    "under": "Custom front and back, integrated price catalog, subscription wired to Stripe. Deliberately simple: here the value isn't in the tech, it's in the speed of response to the client.",
+    "role": "Founder. From the company registration to the first quote, alone."
+  },
+  {
+    "slug": "halluguard",
+    "name": "HalluGuard",
+    "status": "built",
+    "featured": true,
+    "url": null,
+    "tagline": "What AI invents about your brand, under watch.",
+    "badges": ["Multi-tenant", "6 LLMs monitored", "Daily scans"],
+    "title": "What AI invents about your brand, under watch.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/halluguard-home.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/halluguard-home.jpg", "caption": "The promise: stop the false facts AI spreads about your brand." },
+        { "src": "/media/halluguard-features.jpg", "caption": "Real-time detection, reliability score per LLM, prioritized alerts." },
+        { "src": "/media/halluguard-pricing.jpg", "caption": "Plans built from solo to agency, payment wired in." }
+      ]
+    },
+    "stack": ["Next.js 16", "Tailwind", "Supabase", "Claude API", "Firecrawl", "Stripe", "Resend"],
+    "problem": "Your customers no longer search only on Google. They ask ChatGPT, Claude, Gemini, Perplexity. And these AIs sometimes state false things about your brand, with total confidence. You don't see it, they do.",
+    "delivered": "A tool that monitors what the major models say about your brand, detects inaccuracies and hallucinations, scores the reliability of each AI, and generates an action plan to fix the sources.",
+    "running": "Fully built SaaS, ready to deploy. Auth, multi-brand dashboards, billing, automated daily scans.",
+    "under": "Production-grade multi-tenant architecture: Supabase with RLS, multi-model scoring engine, crawling via Firecrawl. A product for a brand-new category: search in the age of generative AI.",
+    "role": "Design and build from end to end. 107 files."
+  },
+  {
+    "slug": "airfryerlab",
+    "name": "Airfryerlab",
+    "status": "live",
+    "featured": false,
+    "url": "https://airfryerlab.fr",
+    "tagline": "Built and ranked first on Google, with 100% organic SEO.",
+    "badges": ["#1 on Google", "100% organic SEO", "No ads"],
+    "title": "An e-commerce ranked first on Google, without a single euro of ads.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/airfryerlab-home.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/airfryerlab-home.jpg", "caption": "The store, ranked first on Google in its market." },
+        { "src": "/media/airfryerlab-shop.jpg", "caption": "A curated product selection, prices and availability kept up to date." },
+        { "src": "/media/airfryerlab-article.jpg", "caption": "The \"Best air fryer 2026\" article, the engine behind the organic traffic." }
+      ]
+    },
+    "stack": ["Shopify", "SEO", "Editorial content"],
+    "problem": "In a saturated market, standing out with no ad budget is a feat.",
+    "delivered": "A specialized e-commerce, backed by dense editorial content, ranked first on Google for \"best air fryer 2026\", with 100% organic SEO.",
+    "running": "Live, organic traffic growing every month. Proof that I don't just build, I also bring the traffic.",
+    "under": "Content strategy, SEO structure, optimized product pages.",
+    "role": "Solo at the controls, from the store to the ranking."
+  },
+  {
+    "slug": "facture-pro",
+    "name": "Facture Pro",
+    "status": "built",
+    "featured": false,
+    "url": null,
+    "tagline": "E-invoicing, aligned with the 2026 regulation.",
+    "badges": ["Ready for 2026 reform", "Ready to plug in"],
+    "title": "An e-invoicing platform ready for the 2026 reform.",
+    "media": { "kind": null },
+    "stack": ["Front and back", "E-invoicing"],
+    "problem": "E-invoicing is becoming mandatory in France. Many players won't be ready.",
+    "delivered": "An invoicing platform aligned with the French regulation coming in 2026. Built end to end, ready to plug in.",
+    "running": "Built and documented. A bet on the right regulatory timing.",
+    "under": "Marketing site, invoicing app, deployment documentation.",
+    "role": "Design and build."
+  },
+  {
+    "slug": "stellar",
+    "name": "STELLAR",
+    "status": "wip",
+    "featured": false,
+    "url": null,
+    "tagline": "An agent system that prospects on its own, all the way to the meeting.",
+    "badges": ["Multi-agent", "Autonomous", "Reusable per niche"],
+    "title": "An autonomous prospecting agent system.",
+    "media": { "kind": null },
+    "stack": ["Multi-agent architecture", "Scraper", "Qualification", "Outreach"],
+    "problem": "Manual prospecting eats entire days, for uneven results.",
+    "delivered": "A multi-agent system driven by AI that identifies prospects, starts the conversation across channels, and goes all the way to booking the meeting. Designed to be reusable from one niche to another.",
+    "running": "In progress. My playground for agentic automation.",
+    "under": "Monorepo architecture split in three: interface, backend, and an autonomous agent layer.",
+    "role": "Architecture design and directing the build."
+  }
+]
