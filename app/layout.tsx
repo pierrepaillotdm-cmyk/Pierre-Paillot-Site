@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { GeistSans } from "geist/font/sans";
 import { GeistMono } from "geist/font/mono";
 import { Fraunces } from "next/font/google";
@@ -19,6 +19,12 @@ export const metadata: Metadata = {
   metadataBase: new URL(`https://${site.domain}`),
   title: site.meta.title,
   description: site.meta.description,
+  formatDetection: { telephone: false },
+};
+
+export const viewport: Viewport = {
+  themeColor: "#0c0b0a",
+  colorScheme: "dark light",
 };
 
 export default function RootLayout({
