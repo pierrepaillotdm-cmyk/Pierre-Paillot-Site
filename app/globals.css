@@ -73,3 +73,27 @@ button:focus-visible {
     scroll-behavior: auto;
   }
 }
+
+/* Clean printing / "Save as PDF": force scroll-reveal content visible and keep the dark theme */
+@media print {
+  @page {
+    margin: 12mm;
+  }
+  html,
+  body {
+    background: var(--page) !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  header {
+    position: static !important;
+  }
+  *,
+  *::before,
+  *::after {
+    opacity: 1 !important;
+    transform: none !important;
+    animation: none !important;
+    transition: none !important;
+  }
+}
