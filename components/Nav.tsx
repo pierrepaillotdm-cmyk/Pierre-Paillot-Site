@@ -19,12 +19,6 @@ export function Nav({ lang, site }: { lang: Locale; site: Site }) {
       <div className="mx-auto flex h-14 max-w-container items-center justify-between px-5 sm:px-8">
         <Link href={`/${lang}`} className="flex items-center gap-3" onClick={() => setOpen(false)}>
           <span className="font-medium tracking-tight text-primary">{site.name}</span>
-          {site.available && (
-            <span className="hidden items-center gap-1.5 text-[12px] text-secondary sm:inline-flex">
-              <span className="h-[7px] w-[7px] rounded-full bg-live" />
-              {ui.nav.available}
-            </span>
-          )}
         </Link>
 
         <nav className="flex items-center gap-2 sm:gap-3">

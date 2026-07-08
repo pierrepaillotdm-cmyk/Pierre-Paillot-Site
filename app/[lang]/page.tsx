@@ -10,7 +10,8 @@ import {
   Proof,
   Soul,
   Contact,
-  QuoteStrip,
+  Signature,
+  References,
   Footer,
 } from "@/components/Sections";
 import { getSite, getProjectsSorted, isLocale } from "@/lib/content";
@@ -33,13 +34,14 @@ export default async function HomePage({
         <Hero site={site} />
         <Phrase site={site} />
         <Scope site={site} />
-        <Offer site={site} />
         <Atelier site={site} lang={lang} projects={projects} />
+        <Signature site={site} />
+        <Offer site={site} />
         <Process site={site} />
         <Proof site={site} />
+        <References site={site} />
         <Soul site={site} />
         <Contact site={site} />
-        <QuoteStrip site={site} />
       </main>
       <Footer site={site} />
     </>

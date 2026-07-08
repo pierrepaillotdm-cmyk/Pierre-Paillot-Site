@@ -55,7 +55,7 @@
     "status": "built",
     "featured": true,
     "url": null,
-    "tagline": "Protégez votre marque de ce que les IA racontent sur vous.",
+    "tagline": "Surveillez ce que les IA disent de votre marque.",
     "badges": ["Multi-tenant", "6 LLM surveillés", "Scans quotidiens"],
     "title": "Ce que les IA inventent sur votre marque, sous surveillance.",
     "media": {
@@ -125,7 +125,7 @@
     "featured": false,
     "url": null,
     "tagline": "Un système d'agents qui prospecte seul, jusqu'au rendez-vous.",
-    "badges": ["Multi-agents", "Autonome", "Réutilisable par niche"],
+    "badges": ["Prospecte", "Qualifie", "Prend rendez-vous"],
     "title": "Un système d'agents de prospection autonome.",
     "media": { "kind": null },
     "stack": ["Architecture multi-agents", "Scraper", "Qualification", "Outreach"],

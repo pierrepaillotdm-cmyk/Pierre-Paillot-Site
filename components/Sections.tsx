@@ -310,18 +310,37 @@ export function Contact({ site }: { site: Site }) {
   );
 }
 
-/* Citation démotée, juste avant le footer */
-export function QuoteStrip({ site }: { site: Site }) {
+/* Signature — la phrase mémorable */
+export function Signature({ site }: { site: Site }) {
+  return (
+    <section className="border-t border-hair bg-surface">
+      <div className="mx-auto max-w-container px-5 py-24 sm:px-8 sm:py-32">
+        <Reveal>
+          <p className="max-w-[22ch] font-serif text-[clamp(2rem,4.5vw,3rem)] leading-[1.1] text-primary">
+            {site.signature}
+          </p>
+        </Reveal>
+      </div>
+    </section>
+  );
+}
+
+/* Références — preuve sociale sobre */
+export function References({ site }: { site: Site }) {
   return (
     <section className="border-t border-hair">
-      <div className="mx-auto max-w-prose px-5 py-14 text-center sm:px-8">
+      <div className="mx-auto max-w-container px-5 py-20 sm:px-8 sm:py-28">
+        <SectionLabel>{site.ui.referencesLabel}</SectionLabel>
         <Reveal>
-          <blockquote className="font-serif text-[16px] italic leading-relaxed text-secondary">
-            « {site.proof.quote.text} »
-          </blockquote>
-          <p className="mt-3 text-[13px] text-subtle">
-            {site.proof.quote.author}, {site.proof.quote.role}
-          </p>
+          <figure className="max-w-prose border-l-2 border-clay pl-6">
+            <blockquote className="font-serif text-[clamp(1.2rem,2.5vw,1.6rem)] italic leading-snug text-primary">
+              « {site.proof.quote.text} »
+            </blockquote>
+            <figcaption className="mt-4 text-[14px] text-secondary">
+              <span className="font-medium text-primary">{site.proof.quote.author}</span>,{" "}
+              {site.proof.quote.role}
+            </figcaption>
+          </figure>
         </Reveal>
       </div>
     </section>

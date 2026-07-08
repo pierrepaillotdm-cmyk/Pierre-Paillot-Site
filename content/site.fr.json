@@ -3,7 +3,8 @@
   "role": "AI Product & Automation Builder",
   "domain": "pierre-paillot-site.vercel.app",
   "available": true,
-  "availabilityLine": "Disponible · Missions freelance (3 à 6 mois) et CDI · Remote depuis Casablanca",
+  "availabilityLine": "Missions freelance et CDI · Paris",
+  "signature": "L'IA construit vite. Je construis juste.",
   "contact": {
     "email": "pierre.paillotdm@gmail.com",
     "linkedin": "https://www.linkedin.com/in/pierre-paillot-de-montabert/",
@@ -15,23 +16,23 @@
     "description": "Consultant et builder IA. Je conçois, je construis et je déploie des outils IA pour les entreprises, de l'audit à la production, jusqu'à l'adoption par vos équipes. Pas un slide. Un produit."
   },
   "hero": {
-    "title": "Je transforme un problème métier en produit IA que vos équipes utilisent.",
+    "title": "Je transforme un problème métier en produit que vos équipes utilisent.",
     "subtitle": "De l'audit à la mise en production, sans que rien ne finisse au placard.",
     "punch": "Pas un slide. Un produit.",
     "ambition": "Je ne cherche pas un poste de développeur. Je cherche des problèmes difficiles, et je construis les produits qui les résolvent."
   },
   "phrase": {
     "lines": [
-      "Un consultant s'arrête au slide.",
-      "Un développeur livre un outil que personne n'utilise."
+      "Un consultant s'arrête au diagnostic.",
+      "Un développeur s'arrête à la livraison."
     ],
     "punch": "Moi, je fais les trois : je diagnostique, je construis, je fais adopter."
   },
   "scope": {
-    "title": "Je ne construis pas un produit. J'en construis tout le temps.",
+    "title": "Je ne construis pas un produit. J'en construis des dizaines.",
     "stats": [
       { "value": "Depuis 2021", "label": "je construis avec l'IA" },
-      { "value": "25+", "label": "produits construits" },
+      { "value": "25+", "label": "produits livrés" },
       { "value": "9", "label": "SaaS & apps" },
       { "value": "5", "label": "boutiques #1 Google" },
       { "value": "10+", "label": "sites & landing pages" }
@@ -60,14 +61,14 @@
     "title": "Le terrain, pas juste l'écran.",
     "lead": "Avant de construire, j'ai passé cinq ans en entreprise, entre les directions et les équipes. J'y ai appris ce qu'aucune techno n'apprend : reconnaître un vrai problème, et faire en sorte qu'une solution soit vraiment utilisée.",
     "items": [
+      { "label": "Fondateur", "text": "j'ai créé mon entreprise, de l'immatriculation au premier devis, seul." },
       { "label": "Goalmap", "text": "Consultant transformation et conduite du changement auprès de 500+ organisations." },
-      { "label": "Audencia Business School", "text": "complété par la sociologie des organisations (Paris Descartes)." },
-      { "label": "Fondateur d'une SASU", "text": "de l'immatriculation au premier devis, seul." }
+      { "label": "Audencia Business School", "text": "complété par la sociologie des organisations (Paris Descartes)." }
     ],
     "quote": {
       "text": "Pierre est un profil précieux, de ceux qu'on regrette. Impliqué, professionnel et profondément humain. Il s'est très vite intégré à l'équipe, a relevé les défis avec enthousiasme, accompli ses missions avec succès et placé la barre haute. On aurait aimé qu'il reste.",
       "author": "Paul Munos",
-      "role": "Fondateur de L'Étincelle"
+      "role": "Co-fondateur de L'Étincelle"
     }
   },
   "soul": {
@@ -83,6 +84,8 @@
     "atelierLabel": "L'atelier, ce qui tourne",
     "alsoInWorkshop": "Aussi dans l'atelier",
     "proofLabel": "Preuves et parcours",
+    "referencesLabel": "Références",
+    "signatureLabel": "Ma conviction",
     "viewProject": "Voir le projet",
     "cta": { "contact": "Me contacter", "downloadCv": "Télécharger le CV", "writeEmail": "Écrire à Pierre" },
     "detail": { "back": "Retour à l'atelier", "problem": "Le problème", "delivered": "Ce que j'ai livré", "running": "Ce qui tourne aujourd'hui", "under": "Sous le capot", "role": "Mon rôle :", "viewOnlinePrefix": "Voir", "viewOnlineSuffix": "en ligne" },

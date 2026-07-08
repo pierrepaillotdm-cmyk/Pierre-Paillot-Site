@@ -3,7 +3,8 @@
   "role": "AI Product & Automation Builder",
   "domain": "pierre-paillot-site.vercel.app",
   "available": true,
-  "availabilityLine": "Available · Freelance (3 to 6 months) and full-time · Remote from Casablanca",
+  "availabilityLine": "Freelance and full-time · Paris",
+  "signature": "AI builds fast. I build right.",
   "contact": {
     "email": "pierre.paillotdm@gmail.com",
     "linkedin": "https://www.linkedin.com/in/pierre-paillot-de-montabert/",
@@ -15,23 +16,23 @@
     "description": "AI consultant and builder. I design, build and ship AI tools for companies, from audit to production, until your teams actually use them. Not a slide. A product."
   },
   "hero": {
-    "title": "I turn a business problem into an AI product your teams actually use.",
+    "title": "I turn a business problem into a product your teams actually use.",
     "subtitle": "From audit to production, with nothing left gathering dust.",
     "punch": "Not a slide. A product.",
     "ambition": "I'm not looking for a developer job. I'm looking for hard problems, and I build the products that solve them."
   },
   "phrase": {
     "lines": [
-      "A consultant stops at the slide.",
-      "A developer ships a tool nobody uses."
+      "A consultant stops at the diagnosis.",
+      "A developer stops at shipping."
     ],
     "punch": "I do all three: I diagnose, I build, I drive adoption."
   },
   "scope": {
-    "title": "I don't build one product. I build all the time.",
+    "title": "I don't build one product. I build dozens.",
     "stats": [
       { "value": "Since 2021", "label": "building with AI" },
-      { "value": "25+", "label": "products built" },
+      { "value": "25+", "label": "products delivered" },
       { "value": "9", "label": "SaaS & apps" },
       { "value": "5", "label": "stores ranked #1 on Google" },
       { "value": "10+", "label": "sites & landing pages" }
@@ -60,14 +61,14 @@
     "title": "The field, not just the screen.",
     "lead": "Before building, I spent five years inside companies, between leadership and teams. I learned there what no technology teaches: how to spot a real problem, and how to make a solution actually get used.",
     "items": [
+      { "label": "Founder", "text": "I built my own company, from incorporation to the first quote, alone." },
       { "label": "Goalmap", "text": "Transformation and change management consultant for 500+ organizations." },
-      { "label": "Audencia Business School", "text": "completed with organizational sociology (Paris Descartes)." },
-      { "label": "Founder of a company", "text": "from incorporation to the first quote, alone." }
+      { "label": "Audencia Business School", "text": "completed with organizational sociology (Paris Descartes)." }
     ],
     "quote": {
       "text": "Pierre is a rare profile, the kind you miss. Committed, professional and deeply human. He fit into the team fast, took on challenges with enthusiasm, delivered his work with success and set the bar high. We wish he had stayed.",
       "author": "Paul Munos",
-      "role": "Founder of L'Étincelle"
+      "role": "Co-founder of L'Étincelle"
     }
   },
   "soul": {
@@ -83,6 +84,8 @@
     "atelierLabel": "The workshop, what's running",
     "alsoInWorkshop": "Also in the workshop",
     "proofLabel": "Proof and background",
+    "referencesLabel": "References",
+    "signatureLabel": "What I believe",
     "viewProject": "View project",
     "cta": { "contact": "Get in touch", "downloadCv": "Download CV", "writeEmail": "Email Pierre" },
     "detail": { "back": "Back to the workshop", "problem": "The problem", "delivered": "What I shipped", "running": "What's running today", "under": "Under the hood", "role": "My role:", "viewOnlinePrefix": "View", "viewOnlineSuffix": "online" },

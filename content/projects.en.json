@@ -55,7 +55,7 @@
     "status": "built",
     "featured": true,
     "url": null,
-    "tagline": "Protect your brand from what AI says about you.",
+    "tagline": "Track what AI says about your brand.",
     "badges": ["Multi-tenant", "6 LLMs monitored", "Daily scans"],
     "title": "What AI invents about your brand, under watch.",
     "media": {
@@ -125,7 +125,7 @@
     "featured": false,
     "url": null,
     "tagline": "An agent system that prospects on its own, all the way to the meeting.",
-    "badges": ["Multi-agent", "Autonomous", "Reusable per niche"],
+    "badges": ["Prospects", "Qualifies", "Books meetings"],
     "title": "An autonomous prospecting agent system.",
     "media": { "kind": null },
     "stack": ["Multi-agent architecture", "Scraper", "Qualification", "Outreach"],
