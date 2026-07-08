@@ -3,7 +3,14 @@
     "allow": [
       "WebFetch(domain:orva.video)",
       "WebFetch(domain:airfryerlab.fr)",
-      "WebFetch(domain:universal-it.fr)"
+      "WebFetch(domain:universal-it.fr)",
+      "Bash(cd ~/Desktop/\"Profil Pierre Paillot AI\")",
+      "Bash('/Applications/Google Chrome.app/Contents/MacOS/Google Chrome' --headless=new --disable-gpu --hide-scrollbars --force-device-scale-factor=1 --window-size=1200,630 --screenshot=public/og.png file://__TRACKED_VAR__/og.html)",
+      "Bash(echo \"done og.png\")",
+      "Bash(ls -la public/og.png)",
+      "Bash(awk '{print $5, $9}')",
+      "Bash(find /private/tmp/claude-501 -name \"cv*.html\" 2>/dev/null; echo \"---\"; ls -la ~/Desktop/\"Profil Pierre Paillot AI\"/public/cv-pierre-paillot*.pdf 2>/dev/null | awk '{print $5, $9}')",
+      "Bash(pkill -9 -f \"Google Chrome.*headless\")"
     ]
   }
 }

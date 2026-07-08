@@ -5,7 +5,7 @@
     "status": "live",
     "featured": true,
     "url": "https://orva.video",
-    "tagline": "De l'idée à la pub cinématique, en IA.",
+    "tagline": "Une pub premium en quelques minutes, sans budget tournage.",
     "badges": ["Pipeline IA complet", "Paiement", "Affiliation"],
     "title": "Transformer une idée en pub cinématique, sans tournage ni budget.",
     "media": {
@@ -29,7 +29,7 @@
     "featured": true,
     "url": "https://universal-it.fr",
     "tagline": "J'ai vu un marché, construit l'outil, fondé la boîte.",
-    "badges": ["Fondateur", "SASU", "Devis instantané"],
+    "badges": ["Fondateur", "SASU", "Devis : heures → minutes"],
     "title": "J'ai vu un marché, j'ai construit l'outil, j'ai fondé la boîte.",
     "media": {
       "kind": "image",
@@ -55,7 +55,7 @@
     "status": "built",
     "featured": true,
     "url": null,
-    "tagline": "Ce que les IA inventent sur votre marque, sous surveillance.",
+    "tagline": "Protégez votre marque de ce que les IA racontent sur vous.",
     "badges": ["Multi-tenant", "6 LLM surveillés", "Scans quotidiens"],
     "title": "Ce que les IA inventent sur votre marque, sous surveillance.",
     "media": {
@@ -107,7 +107,7 @@
     "status": "built",
     "featured": false,
     "url": null,
-    "tagline": "Facturation électronique, alignée sur la réglementation 2026.",
+    "tagline": "Être prêt avant la réforme e-facturation 2026.",
     "badges": ["Conforme réforme 2026", "Prêt à brancher"],
     "title": "Une plateforme de facturation électronique prête pour la réforme 2026.",
     "media": { "kind": null },

@@ -79,10 +79,7 @@ export function ProjectCard({
         </div>
       )}
 
-      <div className="mt-auto flex items-center justify-between">
-        <span className="font-mono text-[11px] text-subtle">
-          {project.stack.slice(0, 3).join(" · ")}
-        </span>
+      <div className="mt-auto flex items-center justify-end">
         <span className="inline-flex items-center gap-1 text-[14px] text-clay transition-transform group-hover:translate-x-0.5">
           {ui.viewProject}
           <span aria-hidden="true">→</span>

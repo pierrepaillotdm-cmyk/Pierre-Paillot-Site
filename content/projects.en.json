@@ -5,7 +5,7 @@
     "status": "live",
     "featured": true,
     "url": "https://orva.video",
-    "tagline": "From an idea to a cinematic ad, with AI.",
+    "tagline": "A premium ad in minutes, with no shoot and no budget.",
     "badges": ["Full AI pipeline", "Payments", "Affiliate program"],
     "title": "Turning an idea into a cinematic ad, with no shoot and no budget.",
     "media": {
@@ -29,7 +29,7 @@
     "featured": true,
     "url": "https://universal-it.fr",
     "tagline": "I spotted a market, built the tool, founded the company.",
-    "badges": ["Founder", "Registered company", "Instant quotes"],
+    "badges": ["Founder", "Registered company", "Quotes: hours → minutes"],
     "title": "I spotted a market, I built the tool, I founded the company.",
     "media": {
       "kind": "image",
@@ -55,7 +55,7 @@
     "status": "built",
     "featured": true,
     "url": null,
-    "tagline": "What AI invents about your brand, under watch.",
+    "tagline": "Protect your brand from what AI says about you.",
     "badges": ["Multi-tenant", "6 LLMs monitored", "Daily scans"],
     "title": "What AI invents about your brand, under watch.",
     "media": {
@@ -107,7 +107,7 @@
     "status": "built",
     "featured": false,
     "url": null,
-    "tagline": "E-invoicing, aligned with the 2026 regulation.",
+    "tagline": "Be ready before the 2026 e-invoicing reform.",
     "badges": ["Ready for 2026 reform", "Ready to plug in"],
     "title": "An e-invoicing platform ready for the 2026 reform.",
     "media": { "kind": null },

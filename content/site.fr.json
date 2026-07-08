@@ -1,6 +1,6 @@
 {
   "name": "Pierre Paillot",
-  "role": "AI Implementation Consultant",
+  "role": "AI Product & Automation Builder",
   "domain": "pierre-paillot-site.vercel.app",
   "available": true,
   "availabilityLine": "Disponible · Missions freelance (3 à 6 mois) et CDI · Remote depuis Casablanca",
@@ -15,8 +15,8 @@
     "description": "Consultant et builder IA. Je conçois, je construis et je déploie des outils IA pour les entreprises, de l'audit à la production, jusqu'à l'adoption par vos équipes. Pas un slide. Un produit."
   },
   "hero": {
-    "title": "Je transforme un problème en outil IA qui tourne.",
-    "subtitle": "De l'audit à la mise en production, jusqu'à ce que vos équipes l'utilisent vraiment.",
+    "title": "Je transforme un problème métier en produit IA que vos équipes utilisent.",
+    "subtitle": "De l'audit à la mise en production, sans que rien ne finisse au placard.",
     "punch": "Pas un slide. Un produit.",
     "ambition": "Je ne cherche pas un poste de développeur. Je cherche des problèmes difficiles, et je construis les produits qui les résolvent."
   },
@@ -36,16 +36,17 @@
       { "value": "5", "label": "boutiques #1 Google" },
       { "value": "10+", "label": "sites & landing pages" }
     ],
-    "note": "100% en dirigeant l'IA. Jusqu'à 5 000 visites par mois en SEO organique."
+    "why": "Je ne cherche pas le projet parfait. Je préfère construire dix produits, apprendre dix fois, et garder ceux qui créent vraiment de la valeur.",
+    "note": "En pilotant l'IA avec des standards d'ingénierie. Jusqu'à 5 000 visites par mois en SEO organique."
   },
   "offer": {
-    "title": "En mission ou en interne, je prends un besoin flou et j'en fais un outil concret.",
+    "title": "En mission ou en interne, je prends un besoin flou et j'en fais un produit concret.",
     "items": [
-      { "label": "J'audite.", "text": "Je comprends le problème métier avant d'écrire la moindre ligne. C'est mon vrai métier : cinq ans à l'interface des directions et des équipes." },
-      { "label": "Je construis.", "text": "Je dirige l'IA pour produire du logiciel de production, vite, propre, déployé. SaaS, automatisations, agents." },
-      { "label": "Je fais adopter.", "text": "Un outil que personne n'utilise est un outil mort. Je m'assure que vos équipes s'en servent." }
+      { "label": "Comprendre", "text": "J'identifie le vrai problème métier." },
+      { "label": "Construire", "text": "Je livre un produit en production." },
+      { "label": "Faire adopter", "text": "Je m'assure qu'il est utilisé." }
     ],
-    "footer": "Idéal si vous voulez de l'IA concrète sans monter une équipe tech. En mission comme en CDI, je m'intègre à votre équipe et je livre. Ensuite, soit l'outil tourne sans moi, soit je reste pour construire la suite. À vous de voir."
+    "footer": "En mission ou en CDI, je m'intègre à votre équipe et je livre. Ça tourne quand je pars, ou je reste pour la suite."
   },
   "atelier": {
     "title": "Je ne vous demande pas de me croire. Je vous montre.",

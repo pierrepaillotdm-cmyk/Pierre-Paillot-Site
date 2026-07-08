@@ -1,6 +1,6 @@
 {
   "name": "Pierre Paillot",
-  "role": "AI Implementation Consultant",
+  "role": "AI Product & Automation Builder",
   "domain": "pierre-paillot-site.vercel.app",
   "available": true,
   "availabilityLine": "Available · Freelance (3 to 6 months) and full-time · Remote from Casablanca",
@@ -15,8 +15,8 @@
     "description": "AI consultant and builder. I design, build and ship AI tools for companies, from audit to production, until your teams actually use them. Not a slide. A product."
   },
   "hero": {
-    "title": "I turn a problem into an AI tool that runs.",
-    "subtitle": "From audit to production, until your teams actually use it.",
+    "title": "I turn a business problem into an AI product your teams actually use.",
+    "subtitle": "From audit to production, with nothing left gathering dust.",
     "punch": "Not a slide. A product.",
     "ambition": "I'm not looking for a developer job. I'm looking for hard problems, and I build the products that solve them."
   },
@@ -36,16 +36,17 @@
       { "value": "5", "label": "stores ranked #1 on Google" },
       { "value": "10+", "label": "sites & landing pages" }
     ],
-    "note": "100% by directing AI. Up to 5,000 visits per month in organic SEO."
+    "why": "I'm not chasing the perfect project. I'd rather build ten products, learn ten times, and keep the ones that truly create value.",
+    "note": "By directing AI with real engineering standards. Up to 5,000 visits per month in organic SEO."
   },
   "offer": {
-    "title": "On a mission or in-house, I take a vague need and turn it into a concrete tool.",
+    "title": "On a mission or in-house, I take a vague need and turn it into a concrete product.",
     "items": [
-      { "label": "I audit.", "text": "I understand the business problem before writing a single line. That's my real trade: five years at the interface between leadership and teams." },
-      { "label": "I build.", "text": "I direct AI to produce production software, fast, clean, deployed. SaaS, automations, agents." },
-      { "label": "I drive adoption.", "text": "A tool nobody uses is a dead tool. I make sure your teams actually use it." }
+      { "label": "Understand", "text": "I pinpoint the real business problem." },
+      { "label": "Build", "text": "I ship a product in production." },
+      { "label": "Drive adoption", "text": "I make sure it gets used." }
     ],
-    "footer": "Ideal if you want concrete AI without building a tech team. On a mission or full-time, I embed with your team and I ship. After that, either the tool runs without me, or I stay to build what's next. Your call."
+    "footer": "On a mission or full-time, I embed with your team and I ship. It runs when I leave, or I stay for what's next."
   },
   "atelier": {
     "title": "I don't ask you to trust me. I show you.",

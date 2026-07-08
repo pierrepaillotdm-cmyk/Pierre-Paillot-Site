@@ -15,7 +15,12 @@ export function Hero({ site }: { site: Site }) {
   return (
     <section className="mx-auto max-w-container px-5 pb-16 pt-20 sm:px-8 sm:pt-28">
       <Reveal>
-        <h1 className="max-w-[16ch] font-serif text-[clamp(2.5rem,6vw,4rem)] font-medium leading-[1.05] tracking-tight text-primary">
+        <p className="mb-6 font-mono text-[12px] uppercase tracking-[0.14em] text-clay">
+          {site.role}
+        </p>
+      </Reveal>
+      <Reveal delay={0.04}>
+        <h1 className="max-w-[18ch] font-serif text-[clamp(2.5rem,6vw,4rem)] font-medium leading-[1.05] tracking-tight text-primary">
           {site.hero.title}
         </h1>
       </Reveal>
@@ -101,8 +106,13 @@ export function Scope({ site }: { site: Site }) {
             ))}
           </div>
         </Reveal>
-        <Reveal delay={0.14}>
-          <p className="mt-10 font-mono text-[12px] tracking-tight text-subtle">{site.scope.note}</p>
+        <Reveal delay={0.12}>
+          <p className="mt-12 max-w-prose font-serif text-[clamp(1.2rem,2.5vw,1.5rem)] leading-snug text-primary">
+            {site.scope.why}
+          </p>
+        </Reveal>
+        <Reveal delay={0.16}>
+          <p className="mt-8 font-mono text-[12px] tracking-tight text-subtle">{site.scope.note}</p>
         </Reveal>
       </div>
     </section>
