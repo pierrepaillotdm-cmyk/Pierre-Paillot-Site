@@ -1,5 +1,32 @@
 [
   {
+    "slug": "coach-ia",
+    "name": "Coach IA · Prépa Entretien",
+    "status": "live",
+    "featured": true,
+    "url": "https://coach-ia-prepa-entretien.vercel.app",
+    "tagline": "Ma méthode de coaching d'entretien, reproduite par une IA, pour des milliers de candidats.",
+    "badges": ["SaaS B2B en prod", "Coach conversationnel 4 étapes", "Voix + non-verbal"],
+    "title": "Industrialiser ma méthode de coaching d'entretien avec l'IA.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/coach-ia-chat.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/coach-ia-chat.jpg", "caption": "Le coach IA guide chaque candidat en 4 étapes : Clarifier, Structurer, Simuler, Débrief." },
+        { "src": "/media/coach-ia-dashboard.jpg", "caption": "Le back-office par centre : candidats, sessions et taux de signature, la preuve chiffrée du ROI." },
+        { "src": "/media/coach-ia-home.jpg", "caption": "La promesse faite aux centres : transformer les candidats en alternants recrutés." },
+        { "src": "/media/coach-ia-commencer.jpg", "caption": "Accès apprenant : code du centre, prénom, métier visé. Gratuit et illimité." }
+      ]
+    },
+    "stack": ["Next.js 15", "TypeScript", "Vercel AI SDK", "Claude", "Supabase", "Drizzle", "ElevenLabs", "MediaPipe"],
+    "problem": "Dans les formations en alternance, tout se joue sur l'entretien d'entrée en entreprise. Des candidats motivés le ratent faute de préparation, et sans contrat signé, pas de formation : les centres perdent des places, les candidats une chance de reconversion.",
+    "delivered": "Un coach IA conversationnel qui reproduit ma propre méthode en 4 étapes (Clarifier, Structurer, Simuler, Débrief) pour préparer chaque candidat à réussir son entretien. Voix, entretien blanc, analyse non-verbale par webcam, et un back-office pour les centres. Vendu en licence annuelle aux centres, gratuit et illimité pour leurs apprenants.",
+    "running": "SaaS en production, utilisé via des codes d'accès par centre. Un tableau de bord par centre suit le taux de signature : la preuve chiffrée du ROI.",
+    "under": "Moteur conversationnel en streaming, persona et principes de coaching injectés à chaque étape, banque de questions dédiée aux métiers techniques, analyse non-verbale in-browser (MediaPipe), base multi-centres, prompt caching pour diviser les coûts.",
+    "role": "Conception, méthode, architecture et build de bout en bout. Le produit encode mon expérience terrain de coach candidat."
+  },
+  {
     "slug": "orva",
     "name": "Orva",
     "status": "live",

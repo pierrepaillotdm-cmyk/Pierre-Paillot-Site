@@ -1,5 +1,32 @@
 [
   {
+    "slug": "coach-ia",
+    "name": "Coach IA · Interview Prep",
+    "status": "live",
+    "featured": true,
+    "url": "https://coach-ia-prepa-entretien.vercel.app",
+    "tagline": "My interview-coaching method, reproduced by an AI, for thousands of candidates.",
+    "badges": ["Live B2B SaaS", "4-step conversational coach", "Voice + non-verbal"],
+    "title": "Turning my interview-coaching method into an AI product.",
+    "media": {
+      "kind": "image",
+      "thumb": "/media/coach-ia-chat.jpg",
+      "aspect": "landscape",
+      "gallery": [
+        { "src": "/media/coach-ia-chat.jpg", "caption": "The AI coach guides each candidate through 4 steps: Clarify, Structure, Simulate, Debrief." },
+        { "src": "/media/coach-ia-dashboard.jpg", "caption": "The per-center back-office: candidates, sessions and signature rate, hard proof of ROI." },
+        { "src": "/media/coach-ia-home.jpg", "caption": "The promise made to centers: turn candidates into recruited apprentices." },
+        { "src": "/media/coach-ia-commencer.jpg", "caption": "Learner access: center code, first name, target trade. Free and unlimited." }
+      ]
+    },
+    "stack": ["Next.js 15", "TypeScript", "Vercel AI SDK", "Claude", "Supabase", "Drizzle", "ElevenLabs", "MediaPipe"],
+    "problem": "In work-study programs, everything hinges on the entry interview with the company. Motivated candidates fail it for lack of preparation, and with no signed contract there is no training: centers lose seats, candidates lose a shot at a career change.",
+    "delivered": "A conversational AI coach that reproduces my own 4-step method (Clarify, Structure, Simulate, Debrief) to prepare every candidate to nail their interview. Voice, mock interview, webcam non-verbal analysis, and a back-office for the centers. Sold as an annual license to centers, free and unlimited for their learners.",
+    "running": "Live SaaS, used through per-center access codes. A per-center dashboard tracks the signature rate: hard proof of ROI.",
+    "under": "Streaming conversational engine, coaching persona and principles injected at every step, a question bank tailored to technical trades, in-browser non-verbal analysis (MediaPipe), multi-center database, prompt caching to cut costs.",
+    "role": "Design, method, architecture and build end to end. The product encodes my field experience as a candidate coach."
+  },
+  {
     "slug": "orva",
     "name": "Orva",
     "status": "live",
